@@ -1,0 +1,15 @@
+{
+  "name": "a2q-gateway",
+  "version": "1.0.0",
+  "description": "Gateway from Azure IoT hub to Qlector open installation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Klemen Kenda",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^1.0.8",
+    "node-fetch": "^2.3.0"
+  }
+}
